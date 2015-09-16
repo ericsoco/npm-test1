@@ -1,0 +1,24 @@
+{
+  "name": "ericsoco-test1",
+  "version": "0.0.0",
+  "description": "Test package publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "author": "ericsoco",
+  "license": "BSD-2-Clause",
+  "style": "*.scss",
+  "transforms": [
+    "sass-css-stream"
+  ],
+  "devDependencies": {
+    "browserify": "^11.1.0",
+    "parcelify": "^2.1.0",
+    "sass-css-stream": "^0.1.6"
+  }
+}
