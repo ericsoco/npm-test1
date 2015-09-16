@@ -1,6 +1,6 @@
 {
   "name": "ericsoco-test1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test package publishing",
   "main": "index.js",
   "scripts": {
